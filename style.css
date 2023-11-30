@@ -4,7 +4,7 @@ header{
 }
 
 body{
-    background-color: blue;
+    background-color: lightyellow;
     color: black;
 }
 
@@ -21,6 +21,6 @@ ul {
 }
 
  footer{
-    background-color: rgb(0, 60, 255);
+    background-color: blue;
     color:black
  }
